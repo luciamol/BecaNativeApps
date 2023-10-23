@@ -1,0 +1,116 @@
+{
+	"list": [
+		{
+			"term": "abdomen, abdominal",
+			"meaning": "The part of the body of a vertebrate containing the digestive organs; the belly.",
+			"image": "https://cdn-icons-png.flaticon.com/512/2309/2309141.png",
+			"combForm": "abdomin/o, celi/o",
+			"examples": "Abdominoplasty, Celiac"
+		},
+		{
+		  "term": "anus",
+		  "meaning": "The opening at the end of the digestive tract where solid waste is eliminated from the body.",
+		  "image": "https://static.thenounproject.com/png/2074957-200.png",
+		  "combForm": "an/o",
+		  "examples": "Analgesia, Anoscopes"
+		},
+		{
+		  "term": "appendix",
+		  "meaning": "A small, tube-shaped sac located in the lower right abdomen that is attached to the colon.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/3411/3411317.png",
+		  "combForm": "append/o, appendic/o",
+		  "examples": "Appendicectomy, Appendicitis"
+		},
+		{
+		  "term": "lip",
+		  "meaning": "Either of the two fleshy parts that form the upper and lower edges of the opening of the mouth.",
+		  "image": "https://i.pinimg.com/564x/48/2e/79/482e79365851c2f5062e2d27a4215b73.jpg",
+		  "combForm": "cheil/o",
+		  "examples": "Cheiloplasty, Cheilitis"
+		},
+		{
+		  "term": "bile",
+		  "meaning": "A digestive fluid produced by the liver and stored in the gallbladder, which helps in the digestion of fats.",
+		  "image": "https://cdn2.iconfinder.com/data/icons/human-organs-add-on/48/v-15-512.png",
+		  "combForm": "chol/e",
+		  "examples": "Bilirubin, Biliary colic"
+		},
+		{
+		  "term": "colon",
+		  "meaning": "The largest part of the large intestine, responsible for absorbing water and electrolytes from undigested food.",
+		  "image": "hhttps://cdn-icons-png.flaticon.com/512/2688/2688248.png",
+		  "combForm": "col/o, colon/o",
+		  "examples": "Colonoscopy, Colonic irrigation"
+		},
+		{
+		  "term": "small intestine",
+		  "meaning": "The long, tubular organ in the abdomen that completes the process of digestion and nutrient absorption.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/3817/3817011.png",
+		  "combForm": "enter/o",
+		  "examples": "Enteritis, Enteropathy"
+		},
+		{
+		  "term": "esophagus",
+		  "meaning": "The muscular tube connecting the throat to the stomach, through which food passes during swallowing.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/6830/6830646.png",
+		  "combForm": "esophag/o",
+		  "examples": "Esophageal, Esophagoscopy"
+		},
+		{
+		  "term": "stomach",
+		  "meaning": "The organ in the upper abdomen responsible for storing and breaking down food for digestion.",
+		  "image": "https://static-00.iconduck.com/assets.00/stomach-icon-512x512-j4npmuzj.png",
+		  "combForm": "gastr/o",
+		  "examples": "Gastroscopy, Gastrectomy"
+		},
+		{
+		  "term": "gum",
+		  "meaning": "The soft tissue that surrounds the base of the teeth in the mouth.",
+		  "image": "hhttps://cdn3.vectorstock.com/i/1000x1000/63/82/gingivitis-gum-inflammation-dental-related-icon-vector-22646382.jpg",
+		  "combForm": "gingiv/o",
+		  "examples": "Gingivitis, Gingivectomy"
+		},
+		{
+		  "term": "tongue",
+		  "meaning": "The muscular organ in the mouth used for taste, swallowing, and speech.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/2416/2416825.png",
+		  "combForm": "gloss/o",
+		  "examples": "Glossitis, Glossectomy"
+		},
+		{
+		  "term": "liver",
+		  "meaning": "A large organ in the upper right abdomen responsible for numerous metabolic functions in the body.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/6969/6969703.png",
+		  "combForm": "hepat/o",
+	      "examples": "Hepatitis, Hepatomegaly"
+		},
+		{
+		  "term": "mouth",
+		  "meaning": "The opening in the face through which food and air enter the body.",
+		  "image": "hhttps://cdn-icons-png.flaticon.com/512/725/725081.png",
+		  "combForm": "stomato",
+		  "examples": "Stomatitis, Stomatology"
+		},
+		{
+		  "term": "pancreas",
+		  "meaning": "An organ in the abdomen that produces insulin and other digestive enzymes.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/3817/3817918.png",
+		  "combForm": "pancreat/o",
+		  "examples": "Pancreatitis, Pancreatectomy"
+		},
+		{
+		  "term": "rectum",
+		  "meaning": "The final straight portion of the large intestine leading to the anus.",
+		  "image": "https://static.vecteezy.com/system/resources/previews/008/618/816/non_2x/rectum-filled-line-icon-vector.jpg",
+		  "combForm": "rect/o",
+		  "examples": "Rectoscope, Rectoplasty"
+		},
+		{
+		  "term": "saliva",
+		  "meaning": "The watery fluid in the mouth that aids in the digestion of food.",
+		  "image": "https://cdn-icons-png.flaticon.com/512/7962/7962591.png",
+		  "combForm": "sial/o",
+		  "examples": "Sialadenitis, Sialorrhea"
+		}
+	]
+}
