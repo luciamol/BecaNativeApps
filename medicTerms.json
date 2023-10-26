@@ -66,7 +66,7 @@
         {
             "term": "gum",
             "meaning": "The soft tissue that surrounds the base of the teeth in the mouth.",
-            "image": "hhttps://cdn3.vectorstock.com/i/1000x1000/63/82/gingivitis-gum-inflammation-dental-related-icon-vector-22646382.jpg",
+            "image": "https://cdn3.vectorstock.com/i/1000x1000/63/82/gingivitis-gum-inflammation-dental-related-icon-vector-22646382.jpg",
             "combForm": "gingiv/o",
             "examples": "Gingivitis, Gingivectomy"
         },
@@ -87,7 +87,7 @@
         {
             "term": "mouth",
             "meaning": "The opening in the face through which food and air enter the body.",
-            "image": "hhttps://cdn-icons-png.flaticon.com/512/725/725081.png",
+            "image": "https://cdn-icons-png.flaticon.com/512/725/725081.png",
             "combForm": "stomato",
             "examples": "Stomatitis, Stomatology"
         },
