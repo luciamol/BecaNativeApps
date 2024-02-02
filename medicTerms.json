@@ -1,7 +1,7 @@
 {
     "list": [
         {
-            "term": "mouth",
+            "term": "Mouth",
             "meaning": "The opening in the face through which food and air enter the body.",
             "image": "hhttps://cdn-icons-png.flaticon.com/512/725/725081.png",
             "combForm": "stomato",
@@ -9,7 +9,7 @@
             "type": 0
         },
         {
-            "term": "pharynx",
+            "term": "Pharynx",
             "meaning": "The membrane-lined cavity behind the nose and mouth, connecting them to the esophagus.",
             "image": "https://cdn4.vectorstock.com/i/1000x1000/11/33/oral-cavity-pharynx-and-esophagus-color-icon-vector-28811133.jpg",
             "combForm": "pharyng/o",
@@ -17,7 +17,7 @@
             "type": 0
         },
         {
-            "term": "esophagus",
+            "term": "Esophagus",
             "meaning": "The muscular tube connecting the throat to the stomach, through which food passes during swallowing.",
             "image": "https://cdn-icons-png.flaticon.com/512/6830/6830646.png",
             "combForm": "esophag/o",
@@ -25,7 +25,7 @@
             "type": 0
         },
         {
-            "term": "stomach",
+            "term": "Stomach",
             "meaning": "The organ in the upper abdomen responsible for storing and breaking down food for digestion.",
             "image": "https://static-00.iconduck.com/assets.00/stomach-icon-512x512-j4npmuzj.png",
             "combForm": "gastr/o",
@@ -33,7 +33,7 @@
             "type": 0
         },
         {
-            "term": "small intestine",
+            "term": "Small intestine",
             "meaning": "The long, tubular organ in the abdomen that completes the process of digestion and nutrient absorption.",
             "image": "https://cdn-icons-png.flaticon.com/512/3817/3817011.png",
             "combForm": "enter/o",
@@ -41,7 +41,7 @@
             "type": 0
         },
         {
-            "term": "large intestine",
+            "term": "Large intestine",
             "meaning": "The last part of the gastrointestinal tract where water is absorbed",
             "image": "https://as2.ftcdn.net/v2/jpg/01/70/46/47/1000_F_170464751_6SfGL1HnlZhnGtF8jq0oak8D73ZmgWec.jpg",
             "combForm": "col/o, colon/o",
@@ -49,7 +49,7 @@
             "type": 0
         },
         {
-            "term": "rectum",
+            "term": "Rectum",
             "meaning": "The final straight portion of the large intestine leading to the anus.",
             "image": "https://static.vecteezy.com/system/resources/previews/008/618/816/non_2x/rectum-filled-line-icon-vector.jpg",
             "combForm": "rect/o",
@@ -57,7 +57,7 @@
             "type": 0
         },
         {
-            "term": "anus",
+            "term": "Anus",
             "meaning": "TThe rectum is a chamber that begins at the end of the large intestine, and ends at the anus",
             "image": "https://as2.ftcdn.net/v2/jpg/02/16/16/85/1000_F_216168562_j1z8PfzA26aHI8o8WqsATXIWDuLvRa00.jpg",
             "combForm": "an/o",
@@ -65,7 +65,7 @@
             "type": 0
         },
         {
-            "term": "liver",
+            "term": "Liver",
             "meaning": "A large organ in the upper right abdomen responsible for numerous metabolic functions in the body.",
             "image": "https://cdn-icons-png.flaticon.com/512/6969/6969703.png",
             "combForm": "hepat/o",
@@ -73,7 +73,7 @@
             "type": 0
         },
         {
-            "term": "gallbladder",
+            "term": "Gallbladder",
             "meaning": "A a small sac-shaped organ beneath the liver in which bile is stored after secretion by the liver and before release into the intestine.",
             "image": "https://cdn-icons-png.flaticon.com/512/7292/7292470.png",
             "combForm": "cholecyst/o",
@@ -81,7 +81,7 @@
             "type": 0
         },
         {
-            "term": "pancreas",
+            "term": "Pancreas",
             "meaning": "An organ in the abdomen that produces insulin and other digestive enzymes.",
             "image": "https://cdn-icons-png.flaticon.com/512/3817/3817918.png",
             "combForm": "pancreat/o",
