@@ -1,0 +1,29 @@
+{
+    "list": [
+        {
+            "question": "The visual examination of the anal canal and lower rectum is known as ________",
+            "answers": ["anascopy", "colonoscopy", "proctoscopy", "sigmoidscopy"],
+            "isCorrect": 0
+        },
+        {
+            "question": "The term ________ means any disease of the mouth due to fungus",
+            "answers": ["salmonellosis", "stomatomycosis", "stomatitis", "steatorrhea"],
+            "isCorrect": 1
+        },
+        {
+            "question": "The surgical removal of all or part of the stomach is a ________",
+            "answers": ["gastrectomy", "gastroenteritis", "gastritis", "gastrotomy"],
+            "isCorrect": 0
+        },
+        {
+            "question": "The  medical term meaning difficulty in swallowing is ________",
+            "answers": ["anorexia", "dyspepsia", "dysphagia", "pyrosis"],
+            "isCorrect": 2
+        },
+        {
+            "question": "The involuntary grinding or clenching of the teeth is called ________",
+            "answers": ["bruxism", "edentulous", "malocclusion", "dental caries"],
+            "isCorrect": 0
+        },
+    ]
+}
