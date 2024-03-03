@@ -148,7 +148,7 @@
             "term": "Enteropathy",
             "meaning": "A disease of the small intestine.",
             "combForm": "",
-            "image": "https://www.purinainstitute.com/sites/default/files/2021-08/feline-stomach-intestine-icon.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/enteropathy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -164,7 +164,15 @@
             "term": "Colonoscopy",
             "meaning": "Examination of the inside of the colon (large intestine) using a colonoscope.",
             "combForm": "",
-            "image": "https://www.shutterstock.com/image-vector/human-colon-medical-examination-vector-600nw-1776576356.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colonoscopy.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Colonopathy",
+            "meaning": "A disease of the large intestine.",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colonopathy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -172,7 +180,7 @@
             "term": "Colitis",
             "meaning": "Inflammation of the large intestine.",
             "combForm": "",
-            "image": "https://static.vecteezy.com/system/resources/previews/010/300/131/non_2x/colitis-disease-color-icon-illustration-vector.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -180,7 +188,7 @@
             "term": "Esophagalgia",
             "meaning": "Pain in the esophagus.",
             "combForm": "",
-            "image": "https://i.ytimg.com/vi/U2bo_IWsaw0/sddefault.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagalgia.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -188,7 +196,7 @@
             "term": "Esophagoscopy",
             "meaning": "Examination of the esophagus.",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/2861/2861093.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagoscopy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -196,7 +204,7 @@
             "term": "Esophagitis",
             "meaning": "Inflammation of the esophagus.",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/2861/2861093.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -204,7 +212,7 @@
             "term": "Gastroscopy",
             "meaning": "Examination of the stomach.",
             "combForm": "",
-            "image": "https://www.shutterstock.com/image-vector/endoscopy-glyph-icon-gastroscopy-process-260nw-1585961137.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastroscopy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -212,7 +220,15 @@
             "term": "Gastrectomy",
             "meaning": "Medical procedure where all or part of the stomach is surgically removed",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/8670/8670731.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastrectomy.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Gastrology",
+            "meaning": "The branch of medicine that studies the structures, functions, and diseases of the stomach",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastrology.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -220,7 +236,7 @@
             "term": "Hepatitis",
             "meaning": "Inflammation of the liver",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/3411/3411870.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -228,7 +244,7 @@
             "term": "Hepatectomy",
             "meaning": "Medical procedure where all or part of the liver is surgically removed",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/3411/3411870.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatectomy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -236,7 +252,7 @@
             "term": "Hepatopathy",
             "meaning": "A disease of the liver",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/3411/3411870.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatopathy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -244,7 +260,7 @@
             "term": "Stomatology",
             "meaning": "The branch of medicine that studies the structures, functions, and diseases of the mouth",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/993/993324.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatology.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -252,7 +268,15 @@
             "term": "Stomatitis",
             "meaning": "Inflammation of the mouth",
             "combForm": "",
-            "image": "https://cdn1.iconfinder.com/data/icons/dentistry-16/100/Icon_16-42-512.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatitis.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Stomatopathy",
+            "meaning": "A disease of the mouth",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatopathy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -260,7 +284,7 @@
             "term": "Pancreatitis",
             "meaning": "Inflammation of the pancreas",
             "combForm": "",
-            "image": "https://cdn3.vectorstock.com/i/1000x1000/21/07/pancreatitis-rgb-color-icon-vector-34552107.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -268,7 +292,7 @@
             "term": "Pancreatectomy",
             "meaning": "Medical procedure where all or part of the pancreas is surgically removed",
             "combForm": "",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Diagram_showing_how_the_bowel_is_joined_back_together_after_a_total_pancreatectomy_CRUK_137.svg/2151px-Diagram_showing_how_the_bowel_is_joined_back_together_after_a_total_pancreatectomy_CRUK_137.svg.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatectomy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -276,7 +300,7 @@
             "term": "Pancreatology",
             "meaning": "The branch of medicine that studies the structures, functions, and diseases of the pancreas",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/2864/2864329.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatology.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -284,7 +308,15 @@
             "term": "Rectoscopy",
             "meaning": "Examination of the rectum.",
             "combForm": "",
-            "image": "https://images.assetsdelivery.com/compings_v2/kateryna26sushchova/kateryna26sushchova2201/kateryna26sushchova220100035.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectoscopy.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Rectology",
+            "meaning": "The branch of medicine that studies the structures, functions, and diseases of the rectum.",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectology.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -292,7 +324,7 @@
             "term": "Anoscopy",
             "meaning": "Examination of the anus.",
             "combForm": "",
-            "image": "https://images.assetsdelivery.com/compings_v2/kateryna26sushchova/kateryna26sushchova2201/kateryna26sushchova220100035.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/anoscopy.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -300,7 +332,7 @@
             "term": "Pharyngitis",
             "meaning": "Inflammation of the pharynx.",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/2848/2848226.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -308,7 +340,15 @@
             "term": "Pharyngoscopy",
             "meaning": "Examination of the pharynx.",
             "combForm": "",
-            "image": "https://cdn.vectorstock.com/i/preview-1x/40/60/nasal-and-throat-nasopharynx-diseases-adenoids-vector-26734060.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngoscopy.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Pharyngalgia",
+            "meaning": "Pain in the pharynx.",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngalgia.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -316,7 +356,7 @@
             "term": "Cholecystitis",
             "meaning": "Inflammation of the gallbladder.",
             "combForm": "",
-            "image": "https://as1.ftcdn.net/v2/jpg/05/04/00/14/1000_F_504001405_N0wDwiJoaUJqvFrHRO9gu2R9XRlXfPMy.jpg",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystitis.png?raw=true",
             "examples": "",
             "type": 2
         },
@@ -324,7 +364,15 @@
             "term": "Cholecystectomy",
             "meaning": "Medical procedure where all or part of the gallbladder is surgically removed",
             "combForm": "",
-            "image": "https://cdn-icons-png.flaticon.com/512/8670/8670721.png",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystectomy.png?raw=true",
+            "examples": "",
+            "type": 2
+        },
+        {
+            "term": "Cholecystalgia",
+            "meaning": "Pain in the Gallbladder",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystalgia.png?raw=true",
             "examples": "",
             "type": 2
         }
