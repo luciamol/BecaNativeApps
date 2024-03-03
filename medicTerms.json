@@ -11,7 +11,7 @@
         {
             "term": "pharynx",
             "meaning": "The membrane-lined cavity behind the nose and mouth, connecting them to the esophagus.",
-            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/PharynxIcon.png?raw=true",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/Pharynx.png?raw=true",
             "combForm": "pharyng/o",
             "examples": "Pharyngitis, Pharyngoscopy",
             "type": 0
@@ -43,7 +43,7 @@
         {
             "term": "large intestine",
             "meaning": "The last part of the gastrointestinal tract where water is absorbed",
-            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/LargeIntestineIcon.png?raw=true",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/LargeIntestine.png?raw=true",
             "combForm": "col/o, colon/o",
             "examples": "Colonoscopy, Colitis",
             "type": 0
@@ -51,7 +51,7 @@
         {
             "term": "rectum",
             "meaning": "The final straight portion of the large intestine leading to the anus.",
-            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/RectumAndAnus.png?raw=true",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectum.png?raw=true",
             "combForm": "rect/o",
             "examples": "Rectoscopy",
             "type": 0
@@ -59,7 +59,7 @@
         {
             "term": "anus",
             "meaning": "The rectum is a chamber that begins at the end of the large intestine, and ends at the anus",
-            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/RectumAndAnus.png?raw=true",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/anus.png?raw=true",
             "combForm": "an/o",
             "examples": "Anoscopy",
             "type": 0
@@ -67,7 +67,7 @@
         {
             "term": "liver",
             "meaning": "A large organ in the upper right abdomen responsible for numerous metabolic functions in the body.",
-            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/liverIcon.png?raw=true",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/liver.png?raw=true",
             "combForm": "hepat/o",
             "examples": "Hepatitis, Hepatectomy",
             "type": 0
