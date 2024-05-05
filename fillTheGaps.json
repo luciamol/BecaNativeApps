@@ -7,9 +7,9 @@
             "unitCode": "00"
         },
         {
-            "question": "The term ________ means any disease of the mouth due to fungus",
+            "question": "The term ________ means the inflammation of the mouth",
             "answers": ["salmonellosis", "stomatomycosis", "stomatitis", "steatorrhea"],
-            "isCorrect": 1,
+            "isCorrect": 2,
             "unitCode": "00"
         },
         {
@@ -19,14 +19,14 @@
             "unitCode": "00"
         },
         {
-            "question": "The  medical term meaning difficulty in swallowing is ________",
-            "answers": ["anorexia", "dyspepsia", "dysphagia", "pyrosis"],
-            "isCorrect": 2,
+            "question": "When talking about the large intestine, we use the root ________",
+            "answers": ["gastr/o", "colon/o", "enter/o", "stomat/o"],
+            "isCorrect": 1,
             "unitCode": "00"
         },
         {
-            "question": "The involuntary grinding or clenching of the teeth is called ________",
-            "answers": ["bruxism", "edentulous", "malocclusion", "dental caries"],
+            "question": "Glossitis is the ________ the tongue",
+            "answers": ["inflammation of", "pain in", "disease of", "visual examination of"],
             "isCorrect": 0,
             "unitCode": "00"
         }
