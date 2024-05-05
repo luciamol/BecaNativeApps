@@ -6,7 +6,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/mouth.png?raw=true",
             "combForm": "stomat/o",
             "examples": "Stomatitis, Stomatology",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "pharynx",
@@ -14,7 +15,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/Pharynx.png?raw=true",
             "combForm": "pharyng/o",
             "examples": "Pharyngitis, Pharyngoscopy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "esophagus",
@@ -22,7 +24,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/Esophagus.png?raw=trueg",
             "combForm": "esophag/o",
             "examples": "Esophagitis, Esophagoscopy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "stomach",
@@ -30,7 +33,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/Stomach.png?raw=true",
             "combForm": "gastr/o",
             "examples": "Gastroscopy, Gastrectomy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "small intestine",
@@ -38,7 +42,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/smallIntestine.png?raw=true",
             "combForm": "enter/o",
             "examples": "Enteritis, Enteropathy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "large intestine",
@@ -46,7 +51,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/LargeIntestine.png?raw=true",
             "combForm": "col/o, colon/o",
             "examples": "Colonoscopy, Colitis",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "rectum",
@@ -54,7 +60,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectum.png?raw=true",
             "combForm": "rect/o",
             "examples": "Rectoscopy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "anus",
@@ -62,7 +69,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/anus.png?raw=true",
             "combForm": "an/o",
             "examples": "Anoscopy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "liver",
@@ -70,7 +78,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/liver.png?raw=true",
             "combForm": "hepat/o",
             "examples": "Hepatitis, Hepatectomy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "gallbladder",
@@ -78,7 +87,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gallbladder.png?raw=true",
             "combForm": "cholecyst/o",
             "examples": "Cholecystitis, Cholecystectomy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "pancreas",
@@ -86,7 +96,8 @@
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreas.png?raw=true",
             "combForm": "pancreat/o",
             "examples": "Pancreatitis, Pancreatectomy",
-            "type": 0
+            "type": 0,
+            "unitCode": "00"
         },
         {
             "term": "Inflammation",
@@ -94,7 +105,8 @@
             "combForm": "-itis",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-itis.png?raw=true",
             "examples": "Enteritis, Pancreatitis",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Visual Examination",
@@ -102,7 +114,8 @@
             "combForm": "-scopy",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-scopy.png?raw=true",
             "examples": "Rectoscopy, Colonoscopy",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Disease",
@@ -110,7 +123,8 @@
             "combForm": "-pathy",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-pathy.png?raw=true",
             "examples": "Enteropathy, Hepatopathy",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Pain",
@@ -118,7 +132,8 @@
             "combForm": "-algia",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-algia.png?raw=true",
             "examples": "Enteralgia, Esophagalgia",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Surgical Incision",
@@ -126,7 +141,8 @@
             "combForm": "-tomy",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-tomy.png?raw=true",
             "examples": "Gastrectomy, Pancreatectomy",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Study",
@@ -134,7 +150,8 @@
             "combForm": "-ology",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/-logy.png?raw=true",
             "examples": "Stomatology, Pancreatology",
-            "type": 1
+            "type": 1,
+            "unitCode": "00"
         },
         {
             "term": "Enteritis",
@@ -142,7 +159,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/enteritis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Enteropathy",
@@ -150,7 +168,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/enteropathy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Enteralgia",
@@ -158,7 +177,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/enteralgia.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Colonoscopy",
@@ -166,7 +186,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colonoscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Colonopathy",
@@ -174,7 +195,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colonopathy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Colitis",
@@ -182,7 +204,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/colitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Esophagalgia",
@@ -190,7 +213,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagalgia.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Esophagoscopy",
@@ -198,7 +222,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagoscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Esophagitis",
@@ -206,7 +231,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/esophagitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Gastroscopy",
@@ -214,7 +240,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastroscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Gastrectomy",
@@ -222,7 +249,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastrectomy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Gastrology",
@@ -230,7 +258,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/gastrology.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Hepatitis",
@@ -238,7 +267,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Hepatectomy",
@@ -246,7 +276,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatectomy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Hepatopathy",
@@ -254,7 +285,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/hepatopathy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Stomatology",
@@ -262,7 +294,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatology.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Stomatitis",
@@ -270,7 +303,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Stomatopathy",
@@ -278,7 +312,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/stomatopathy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pancreatitis",
@@ -286,7 +321,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pancreatectomy",
@@ -294,7 +330,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatectomy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pancreatology",
@@ -302,7 +339,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pancreatology.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Rectoscopy",
@@ -310,7 +348,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectoscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Rectology",
@@ -318,7 +357,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/rectology.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Anoscopy",
@@ -326,7 +366,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/anoscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pharyngitis",
@@ -334,7 +375,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pharyngoscopy",
@@ -342,7 +384,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngoscopy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Pharyngalgia",
@@ -350,7 +393,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/pharyngalgia.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Cholecystitis",
@@ -358,7 +402,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystitis.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Cholecystectomy",
@@ -366,7 +411,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystectomy.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         },
         {
             "term": "Cholecystalgia",
@@ -374,7 +420,8 @@
             "combForm": "",
             "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystalgia.png?raw=true",
             "examples": "",
-            "type": 2
+            "type": 2,
+            "unitCode": "00"
         }
     ]
 }
