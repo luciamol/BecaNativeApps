@@ -422,6 +422,15 @@
             "examples": "",
             "type": 2,
             "unitCode": "00"
+        },
+        {
+            "term": "Prueba",
+            "meaning": "Prueba",
+            "combForm": "",
+            "image": "https://github.com/luciamol/BecaNativeApps/blob/main/icons/cholecystalgia.png?raw=true",
+            "examples": "",
+            "type": 2,
+            "unitCode": "01"
         }
     ]
 }
